@@ -2,58 +2,64 @@
 
 ## Summary of Project
 
-This project explores gender-based wage disparities across the United States using publicly available data from the U.S. Census Bureau and Bureau of Labor Statistics. The focus is on identifying wage gaps between men and women across different education levels, job types, and work arrangements (e.g., remote, full-time).
+This project analyzes gender-based wage disparities in the United States between 2015 and 2023 using data from the U.S. Census Bureau’s ACS and the Current Population Survey. The focus is on exploring wage gaps by education level, occupation, and work arrangement.
 
-The project combines data cleaning, exploratory data analysis, and visual storytelling to uncover how gender, education, and work flexibility affect earnings and to quantify the gap with regression techniques.
+Key goals include:
+- Quantifying the wage gap across different education levels
+- Identifying occupations with the highest gender-based wage differences
+- Visualizing longitudinal trends and segment-specific patterns
 
-**Part I – Data Preparation**  
-The dataset includes earnings by gender, education level, job type, and work flexibility (full-time/remote). Key steps included:
-- Cleaning nulls and fixing formats
-- Creating new indicators like `wage_gap_percent`
-- Grouping by categories for comparative analysis
+**Part I – Data Collection**  
+- Raw data sourced from the U.S. Census ACS: `ACSDT1Y2015–2023.B20004-Data.csv`
+- 2024 data pulled from `cpsa2024.xlsx`
+- Variables include: gender, education level, occupation group, and income
 
-**Part II – Analysis & Visualization (`gender_wage_gap_analysis.ipynb`)**  
-Explored trends in wage gaps:
-- Across education levels (e.g., Bachelor’s vs. High School)
-- Across job flexibility (remote vs. on-site)
-- Wage gap percent across industries
+**Part II – Data Cleaning (`cleaning-wage-data.R`)**
+- Cleaned nulls, standardized columns
+- Created `wage_gap_percent` variable
+- Aggregated wage data by education level and year for trend analysis
 
-Used regression to estimate the degree to which gender explains wage differences, controlling for education and work type. Presented interactive and static visualizations using Seaborn and Matplotlib.
+**Part III – Analysis & Visualizations (`gender_wage_gap_analysis.ipynb`)**
+- Line plots showing change in wage gap by education level
+- Heatmap for year-over-year breakdown
+- Bar chart for occupations with highest wage gaps
+
+---
 
 ## Datasets
 
 | File | Description |
 |------|-------------|
-| `data/cleaned_gender_data.csv` | Cleaned dataset containing earnings, gender, education level, and work arrangement |
-| `data/raw_census_wages.csv` | Raw dataset from U.S. Census or BLS |
+| `data/ACSDT1Y2015–2023.B20004-Data.csv` | ACS raw data files with gender-based income by education (2015–2023) |
+| `data/cpsa2024.xlsx` | CPS data (2024) with similar structure |
 
-> Additional sources: U.S. Census Bureau, BLS ACS PUMS API
+---
 
 ## Visuals
 
-| Chart | File |
-|-------|------|
-| Wage Gap by Education Level | `visuals/education_vs_gap.png` |
-| Wage Gap in Remote vs On-Site Jobs | `visuals/flexibility_vs_gap.png` |
-| Distribution of Wages by Gender | `visuals/distribution_by_gender.png` |
+### Gender Wage Gap (%) by Education Level (2015–2023)
+<img src="visuals/education_wagegap_trend.png" width="600" />
+
+### Heatmap of Wage Gap by Education & Year
+<img src="visuals/wagegap_heatmap.png" width="600" />
+
+### Wage Gap % by Occupation (2023)
+<img src="visuals/wagegap_by_occupation.png" width="600" />
+
+---
 
 ## Files
 
-### 📊 Notebook
-[View Jupyter Notebook](gender_wage_gap_analysis.ipynb)
+### 📓 Notebook
+- [`gender_wage_gap_analysis.ipynb`](gender_wage_gap_analysis.ipynb) — Full exploratory and statistical analysis
 
-### 📄 Final Report (Optional)
-Coming soon
+### 🌐 HTML Version (Optional)
+- [`gender_wage_gap_analysis.html`](code/gender_wage_gap_analysis.html) — Clean, viewable version of the notebook
 
-## Installation
-To run the notebook locally:
-```bash
-pip install pandas matplotlib seaborn
-```
+---
 
 ## Acknowledgements
-Special thanks to the U.S. Census Bureau and BLS for open access to demographic and wage data.
+Data provided by:
+- U.S. Census Bureau (ACS)
+- U.S. Bureau of Labor Statistics (CPS)
 
-## Author
-**Nishtha Sood**  
-[LinkedIn](https://linkedin.com/in/nishtha-sood) | [Website](https://nishtha-sood.github.io)

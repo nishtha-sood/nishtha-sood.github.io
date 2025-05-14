@@ -56,7 +56,7 @@ This project analyzes food waste patterns across NYC boroughs, models their rela
 
 ---
 
-## Visual Samples
+## 📊 Visual Samples
 
 ### Annual Food Waste Forecast (2015–2027)
 > Modeled using linear regression  
@@ -74,14 +74,16 @@ This project analyzes food waste patterns across NYC boroughs, models their rela
 ### Restaurant Density vs Food Waste
 <img src="visuals/restaurant-vs-waste.png" width="600" />
 
+---
 
 ## 📄 Files
 
-### 📊 Final Project Deck 
-📥 [Download PDF](Presentation/food-waste-presentation.pdf)  
-🔗 [Open in new tab ↗](https://github.com/nishtha-sood/nishtha-sood.github.io/raw/main/Proj#1 - NYC Food Wastage Analysis/Presentation/food-waste-presentation.pdf)
+### 📊 Final Project Deck  
+📥 [Download PDF](presentation/food-waste-presentation.pdf)  
+🔗 [Open in new tab ↗](https://github.com/nishtha-sood/nishtha-sood.github.io/raw/main/Proj%231%20-%20NYC%20Food%20Wastage%20Analysis/presentation/food-waste-presentation.pdf)
 
 ---
 
-### 📜 R Script: Regression, Clustering, and Diagnostics
-<a href="code/food-waste-analysis.R" download>Download food-waste-analysis.R</a>
+### 📜 R Script: Regression, Clustering, and Diagnostics  
+📥 [Download food-waste-analysis.R](code/food-waste-analysis.R)
+

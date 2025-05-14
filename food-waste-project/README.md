@@ -1,13 +1,10 @@
-# NYC Food Waste Forecasting (2015–2025)
+# NYC Food Wastage (2015–2025)
 
 ## Project Overview
 
 New York City generates over **3 million tons of food waste** annually. Despite composting programs and redistribution efforts, borough-level waste trends remain inconsistent.
 
 This project analyzes food waste patterns across NYC boroughs, models their relationship with income, population, and restaurant density, and recommends borough-specific interventions.
-
-> Final project for MAR 664 – Predictive Analytics  
-> By Nishtha Sood, Pace University
 
 ---
 

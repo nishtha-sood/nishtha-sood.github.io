@@ -21,6 +21,7 @@ This project analyzes food waste patterns across NYC boroughs, models their rela
 
 ---
 
+
 ### 🧩 Part I – Data Compilation & Sources
 
 I compiled datasets from publicly available NYC and U.S. Census sources:

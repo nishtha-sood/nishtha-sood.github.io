@@ -1,7 +1,6 @@
 # Hi, I'm Nishtha Sood
 
-<img src="assets/profile.jpg" alt="Nishtha Sood" width="150" />
-
+<img src="assets/profile.jpg" width="150" />
 
 Welcome to my portfolio! I’m currently pursuing my MBA in Marketing Analytics at Pace University in New York, and I love using data to help brands make smarter decisions.
 

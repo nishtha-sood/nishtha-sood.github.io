@@ -62,7 +62,7 @@ This project analyzes food waste patterns across NYC boroughs, models their rela
 > Modeled using linear regression  
 > RMSE ≈ 79,000 tons
 
-assets/img/food-waste-trend.png
+<img src="../assets/img/food-waste-trend.png" alt="NYC Food Waste Forecast Chart" width="600" />
 
 ---
 

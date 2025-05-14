@@ -79,8 +79,8 @@ This project analyzes food waste patterns across NYC boroughs, models their rela
 ## 📄 Files
 
 ### 📊 Final Project Deck  
-📥 [Download PDF](presentation/food-waste-presentation.pdf)  
-🔗 [Open in new tab ↗](https://github.com/nishtha-sood/nishtha-sood.github.io/raw/main/Proj%231%20-%20NYC%20Food%20Wastage%20Analysis/presentation/food-waste-presentation.pdf)
+📥 [Download PDF](https://github.com/nishtha-sood/nishtha-sood.github.io/raw/main/Proj%231%20-%20NYC%20Food%20Wastage%20Analysis/presentation/food-waste-presentation.pdf) 
+🔗 [Open in new tab ↗](presentation/food-waste-presentation.pdf)
 
 ---
 

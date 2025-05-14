@@ -83,12 +83,6 @@ This project analyzes food waste patterns across NYC boroughs, models their rela
 
 ---
 
-### 📜 R Script: Regression, Clustering, and Diagnostics  
-📥 [Download food-waste-analysis.R](code/food-waste-analysis.R)
-
-
----
-
 ### 📜 R Script: Regression, Clustering, and Diagnostics
 <a href="code/food-waste-analysis.R" download>Download food-waste-analysis.R</a>
 

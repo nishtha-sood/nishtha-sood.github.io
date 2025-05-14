@@ -20,12 +20,11 @@ Before this, I worked across customer support, visual merchandising, and institu
 
 Today, I bring those experiences into the world of data — combining **marketing instincts** with **technical skills** like R, SQL,Python and Tableau to help solve real problems.
 
-
 ## 📁 Featured Projects
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [NYC Food Waste Forecasting](https://github.com/nishtha-sood/nishtha-sood.github.io/tree/main/Proj#1 - NYC Food Wastage Analysis) | Modeled borough-level food waste using regression & clustering (R² = 0.93) | R, Tableau, Excel |
+| [NYC Food Waste Forecasting](https://github.com/nishtha-sood/nishtha-sood.github.io/tree/main/Proj%231%20-%20NYC%20Food%20Wastage%20Analysis) | Modeled borough-level food waste using regression & clustering (R² = 0.93) | R, Tableau, Excel |
 | [US Gender Wage Gap Analysis]() | Visualized wage disparities using Census & BLS data | Tableau, R |
 
 ---

@@ -34,7 +34,7 @@ Today, I bring those experiences into the world of data — combining **marketin
 
 - 📧 [nishtha.sood@pace.edu](mailto:nishtha.sood@pace.edu)
 - 💼 [LinkedIn](https://linkedin.com/in/nishtha-sood)
-- 🌐 [Personal Website](https://nishtha-sood.github.io)
+- [📄 Resume](nishtha-sood.github.io/Resume/Nishtha_Sood_Resume.pdf)
 
 Thanks for stopping by. I’m always open to chat about marketing, data, or just grab coffee. ☕
 

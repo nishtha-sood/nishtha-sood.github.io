@@ -51,12 +51,11 @@ Key goals include:
 ## Files
 
 ### 📓 Notebook
-- [`gender_wage_gap_analysis.ipynb`](gender_wage_gap_analysis.ipynb) — Full exploratory and statistical analysis
+- [`gender_wage_gap_analysis.ipynb`](code/gender_wage_gap_analysis.ipynb) — Full exploratory and statistical analysis
 
-### 🌐 HTML Version (Optional)
+### 🌐 HTML Version
 - [`gender_wage_gap_analysis.html`](code/gender_wage_gap_analysis.html) — Clean, viewable version of the notebook
 
----
 
 ## Acknowledgements
 Data provided by:

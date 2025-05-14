@@ -69,7 +69,7 @@ This project analyzes food waste patterns across NYC boroughs, models their rela
 ### Clustering of Borough Waste Behavior (K-Means)
 > Boroughs grouped by patterns in waste, restaurant density, and income
 
-![Clusters](visuals/cluster_map.png)
+<img src="../assets/img/borough-comparison.png" alt="NYC Food Waste Forecast Chart" width="600" />
 
 ---
 

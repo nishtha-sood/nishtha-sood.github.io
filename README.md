@@ -18,7 +18,7 @@ I’m currently a Marketing Intern at the Pace SBDC where I support small busine
 
 Before this, I worked across customer support, visual merchandising, and institutional outreach at brands like Forest Essentials and Tech Mahindra. These roles helped me understand business from the ground up.
 
-Today, I bring those experiences into the world of data — combining **marketing instincts** with **technical skills** like R, SQL, and Tableau to help solve real problems.
+Today, I bring those experiences into the world of data — combining **marketing instincts** with **technical skills** like R, SQL,Python and Tableau to help solve real problems.
 
 
 ## 📁 Featured Projects

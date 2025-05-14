@@ -77,9 +77,15 @@ This project analyzes food waste patterns across NYC boroughs, models their rela
 
 ## 📄 Files
 
-### 📊 Final Project Deck
-<iframe src="presentation/food-waste-presentation.pdf" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>  
-<p><a href="presentation/food-waste-presentation.pdf" target="_blank">Open in new tab ↗</a></p>
+### 📊 Final Project Deck 
+📥 [Download PDF](presentation/food-waste-presentation.pdf)  
+🔗 [Open in new tab ↗](https://github.com/nishtha-sood/nishtha-sood.github.io/raw/main/food-waste-project/presentation/food-waste-presentation.pdf)
+
+---
+
+### 📜 R Script: Regression, Clustering, and Diagnostics  
+📥 [Download food-waste-analysis.R](code/food-waste-analysis.R)
+
 
 ---
 

@@ -8,12 +8,50 @@ This project analyzes food waste patterns across NYC boroughs, models their rela
 
 ---
 
-## Research Questions
+## 📁 Project Parts
 
-1. How much food is wasted annually, and how has this changed over time?
-2. Which boroughs generate the most food waste?
-3. What factors (income, population, restaurant density) drive this waste?
-4. How effective are composting efforts across the city?
+### 📦 Part I – Data Collection & Compilation
+
+- **Sources:**
+  - NYC Open Data – DSNY Monthly Tonnage Reports
+  - NYC Organics Collection Tonnage
+  - U.S. Census ACS – Median Household Income
+  - NYC Borough Population Density
+  - Restaurant Density (manually aggregated from inspection data)
+
+- **Data Preparation:**
+  - Combined monthly waste data by borough to create annual totals
+  - Calculated percent of waste composted from organics vs total
+  - Created unified borough-level dataset with demographic overlays
+ 
+### 📊 Part III – Analysis & Modeling (`food-waste-analysis.R`)
+
+- **Regression Modeling:**
+  - Linear regression with R² = 0.93 to forecast citywide waste
+  - Poisson regression to validate count-based model reliability
+- **EDA & Correlation:**
+  - Univariate and bivariate trends by borough
+  - Key correlations:
+    - Positive: restaurant density
+    - Negative: income
+    - Weak: population density
+- **Clustering:**
+  - K-Means to segment boroughs based on similar waste behavior
+
+---
+
+## 📚 Datasets
+
+| File | Description |
+|------|-------------|
+| `data/tonnage_raw.csv` | Monthly DSNY waste tonnage data |
+| `data/income.csv` | Borough-wise median household income |
+| `data/population.csv` | Borough-wise population and density |
+| `data/organics.csv` | Composting data (DSNY & Non-DSNY sources) |
+| `data/cleaned_total.csv` | Final merged dataset for analysis (2015–2025) |
+
+> Note: The restaurant inspection dataset from ACS was too large to upload but was used during aggregation.
+
 
 ---
 

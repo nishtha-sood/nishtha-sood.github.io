@@ -62,16 +62,18 @@ This project analyzes food waste patterns across NYC boroughs, models their rela
 > Modeled using linear regression  
 > RMSE ≈ 79,000 tons
 
-<img src="../assets/img/food-waste-trend.png" alt="NYC Food Waste Forecast Chart" width="600" />
+<img src="visuals/food-waste-trend.png" width="600" />
 
 ---
 
-### Clustering of Borough Waste Behavior (K-Means)
-> Boroughs grouped by patterns in waste, restaurant density, and income
-
-<img src="../assets/img/borough-comparison.png" alt="NYC Food Waste Forecast Chart" width="600" />
+### Borough Comparison of Waste (2015–2025)
+<img src="visuals/borough-comparison.png" width="600" />
 
 ---
+
+### Restaurant Density vs Food Waste
+<img src="visuals/restaurant-vs-waste.png" width="600" />
+
 
 ## 📄 Files
 

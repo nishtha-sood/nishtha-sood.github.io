@@ -25,7 +25,7 @@ Today, I bring those experiences into the world of data — combining **marketin
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [NYC Food Waste Forecasting](https://github.com/nishtha-sood/nishtha-sood.github.io/tree/main/food-waste-project) | Modeled borough-level food waste using regression & clustering (R² = 0.93) | R, Tableau, Excel |
+| [NYC Food Waste Forecasting](https://github.com/nishtha-sood/nishtha-sood.github.io/tree/main/Proj#1 - NYC Food Wastage Analysis) | Modeled borough-level food waste using regression & clustering (R² = 0.93) | R, Tableau, Excel |
 | [US Gender Wage Gap Analysis]() | Visualized wage disparities using Census & BLS data | Tableau, R |
 
 ---

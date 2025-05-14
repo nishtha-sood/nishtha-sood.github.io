@@ -21,43 +21,6 @@ This project analyzes food waste patterns across NYC boroughs, models their rela
 
 ---
 
-
-### 🧩 Part I – Data Compilation & Sources
-
-I compiled datasets from publicly available NYC and U.S. Census sources:
-
-- **DSNY Monthly Tonnage Data** (food waste volumes)
-- **Organics Collection Tonnage** (for composting percentages)
-- **ACS 2023 Income Data**
-- **Population and Borough Area Metrics**
-
-> These were merged into a borough-level dataset for the period 2015–2025.  
-> Restaurant data was aggregated manually due to file size constraints.
-
----
-
-### 🧼 Part II – Data Cleaning & Engineering (`cleaning-data-for-tableau.R`)
-
-- Removed missing values and irrelevant fields  
-- Engineered new columns:
-  - `Total_Waste`
-  - `Percent_Composted`
-  - `Population_Density`
-- Merged all data into a single cleaned file for modeling
-
-> **Packages used:** `dplyr`, `lubridate`, `tidyr`, `readr`
-
----
-
-### 📊 Part III – Analysis & Modeling (`food-waste-analysis.R`)
-
-- **Linear Regression:** Forecasted total waste per year (R² = 0.93)
-- **Poisson Regression:** Validated predictor strength for count-based modeling
-- **Clustering:** Grouped boroughs by waste behavior using K-means
-- **EDA:** Explored waste vs. population, income, and restaurant density
-
-> **Packages used:** `ggplot2`, `cluster`, `caret`, `tidyverse`
-
 ## Tools & Data Sources
 
 | Tool | Use |

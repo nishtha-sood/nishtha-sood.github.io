@@ -29,15 +29,6 @@ This project analyzes food waste patterns across NYC boroughs, models their rela
 | **Tableau** | Borough-level dashboards and visuals |
 | **Excel** | Initial cleaning, pivoting, and verification |
 
-**Data Sources:**
-- NYC DSNY Monthly Tonnage Data (2015–2025)
-- NYC Organics Collection Tonnage
-- NYC Restaurant Inspection Records
-- U.S. Census ACS: Median Income
-- NYC Population by Borough (2020)
-
----
-
 ## Methodology
 
 - **EDA**: Borough-level trends (waste volume, composting rate)

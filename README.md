@@ -1,16 +1,23 @@
-# nishtha-sood.github.io
-Personal portfolio website for Nishtha Sood
+# Hi, I'm Nishtha Sood
 
-Hi, I'm Nishtha Sood
+<img src="assets/nishtha-headshot.png" alt="Nishtha Sood" width="150" />
 
-I'm an MBA student at Pace University specializing in **Marketing Analytics**, with a passion for using data to uncover insights, improve campaigns, and tell better stories. Whether it’s automating CRM workflows or forecasting trends with R, I love turning data into action.
+Welcome to my portfolio! I’m currently pursuing my MBA in Marketing Analytics at Pace University in New York, and I love using data to help brands make smarter decisions.
 
-🔍 I’ve worked with brands like Forest Essentials, Tech Mahindra, and Pace SBDC, and my toolkit includes:
-- R, Tableau, SQL, Excel
-- Google Analytics, Power BI, Python
-- Salesforce, Constant Contact, Wix
+My journey started in visual merchandising and customer care — but over time, I found myself drawn more to the patterns behind customer behavior than the front-facing side. That's when I dove deep into analytics: from crunching sanitation data to forecast food waste in NYC, to mapping wage gaps across industries, I’m always looking for insights that tell a real story.
+
+Whether it's optimizing campaign performance or building dashboards that actually make sense to non-technical teams — I'm passionate about bridging the gap between **data and business impact**.
 
 ---
+
+## 🎯 About Me & My Data Journey
+
+I’m currently a Marketing Intern at the Pace SBDC where I support small businesses with analytics-backed strategies — managing CRM campaigns, analyzing web traffic, and automating workflows.
+
+Before this, I worked across customer support, visual merchandising, and institutional outreach at brands like Forest Essentials and Tech Mahindra. These roles helped me understand business from the ground up.
+
+Today, I bring those experiences into the world of data — combining **marketing instincts** with **technical skills** like R, SQL, and Tableau to help solve real problems.
+
 
 ## 📁 Featured Projects
 
@@ -21,10 +28,11 @@ I'm an MBA student at Pace University specializing in **Marketing Analytics**, w
 
 ---
 
-## 🌐 Connect with Me
+## Let's Connect!
 
 - 📧 [nishtha.sood@pace.edu](mailto:nishtha.sood@pace.edu)
 - 💼 [LinkedIn](https://linkedin.com/in/nishtha-sood)
-- 🌍 [Portfolio Website](https://nishtha-sood.github.io)
+- 🌐 [Personal Website](https://nishtha-sood.github.io)
 
-Let’s connect!
+Thanks for stopping by. I’m always open to chat about marketing, data, or just grab coffee. ☕
+
